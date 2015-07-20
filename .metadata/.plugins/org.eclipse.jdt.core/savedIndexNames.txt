@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\ymatlashenko\Google Диск\JavaHW_1\.metadata\.plugins\org.eclipse.jdt.core
+2474052773.index
+1076911806.index
+2995875126.index
+1893645048.index
